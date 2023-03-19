@@ -1,14 +1,13 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
-/* File: 1-last_digit.c */
+#include <stdio.h>
 
 /**
-* main - Entry point of Program.
+* main - Prints the last digit of a randomly generated number
 *
 *Return - ALways 0.
 */
+
 int main(void)
 {
 int n;
