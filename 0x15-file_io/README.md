@@ -2,7 +2,7 @@ Project: 0x15. C - File I/O
 
 Tasks
 
-0. Tread lightly, she is near
+0. **Tread lightly, she is near**
 
 Write a function that reads a text file and prints it to the POSIX standard output.
 
@@ -15,7 +15,7 @@ Write a function that reads a text file and prints it to the POSIX standard outp
 
 
 
-1. ** Under the snow **
+1. **Under the snow**
 
 Create a function that creates a file.
 
@@ -28,7 +28,7 @@ Create a function that creates a file.
 * if text_content is NULL create an empty file
 
 
-2. ** Speak gently, she can hear **
+2. **Speak gently, she can hear**
 
 Write a function that appends text at the end of a file.
 
@@ -40,7 +40,7 @@ Write a function that appends text at the end of a file.
 * If text_content is NULL, do not add anything to the file. Return 1 if the file exists and -1 if the file does not exist or if you do not have the required permissions to write the file
 
 
-3. ** cp **
+3. **cp**
 
 Write a program that copies the content of a file to another file.
 
@@ -58,7 +58,7 @@ Permissions of the created file: rw-rw-r--. If the file already exists, do not c
 * You are allowed to use dprintf
 
 
-4. elf
+4. **elf**
 
 Write a program that displays the information contained in the ELF header at the start of an ELF file.
 
