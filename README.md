@@ -25,3 +25,4 @@ Projects so far:
 * 0x15. C - File I/O
 * 0x17. C - Doubly linked lists
 * 0x18. C - Dynamic libraries
+* 0x1A. C - Hash tables
