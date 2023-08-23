@@ -1,6 +1,6 @@
 alx-low_level_programming
 
-Projects so far:
+Projects:
 * 0x00. C - Hello, World
 * 0x01. C - Variables, if, else, while
 * 0x02. C - Functions, nested loops
@@ -26,3 +26,4 @@ Projects so far:
 * 0x17. C - Doubly linked lists
 * 0x18. C - Dynamic libraries
 * 0x1A. C - Hash tables
+* 0x1C. C - Makefiles
