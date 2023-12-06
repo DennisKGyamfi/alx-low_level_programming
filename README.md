@@ -28,3 +28,5 @@ Projects:
 * 0x1A. C - Hash tables
 * 0x1C. C - Makefiles
 * 0x1E-search_algorithms
+* 0x0B-python-input_output
+
